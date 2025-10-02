@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharindu Deshan</h1>
 <h3 align="center">Undergraduate Developer | Mobile, Web, and AI Enthusiast</h3>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tharindudesh43&label=Profile%20views&color=0e75b6&style=flat" alt="tharindudesh43" /> 
 </p>
 
