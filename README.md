@@ -8,12 +8,9 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Flutter, MERN Stack, and AI concepts**
-- 💻 Passionate about **Mobile Apps, Web Development, and DevOps**
-- 📫 Reach me at **tharindudeshanhimahansa43@gmail.com**
-- ⚡ Always eager to **learn, build, and collaborate**
-
----
+- 🌱 Currently learning **Flutter, MERN Stack, and AI concepts**  
+- 💻 Passionate about **Mobile Apps, Web Development, and DevOps**  
+- ⚡ Always eager to **learn, build, and collaborate**  
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -21,6 +18,15 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindudesh43&show_icons=true&locale=en&layout=compact" alt="tharindudesh43" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindudesh43&show_icons=true&locale=en" alt="tharindudesh43" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindudesh43&" alt="tharindudesh43" /></p>
 
 ---
 
@@ -72,12 +78,3 @@
 <p align="left"> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
-
----
-
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindudesh43&show_icons=true&locale=en&layout=compact" alt="tharindudesh43" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharindudesh43&show_icons=true&locale=en" alt="tharindudesh43" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindudesh43&" alt="tharindudesh43" /></p>
