@@ -66,6 +66,7 @@ open_to:    Collaborations · Open Source · Internships
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-FFCA28?style=for-the-badge&logo=supabase&logoColor=green"/>
 </p>
 
 ### ⚙️ Tools & Platforms
