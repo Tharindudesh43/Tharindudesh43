@@ -80,47 +80,6 @@ open_to:    Collaborations · Open Source · Internships
 
 ---
 
-## 🚀 Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Laptop Price Predictor</h3>
-      <p>
-        A machine learning–powered web app that predicts laptop prices in LKR based on hardware specs.
-        Built with a trained <strong>Random Forest / regression model</strong> served via Flask.
-        Features a fully custom dark-themed UI with glassmorphism design.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      </p>
-      <strong>Key Features:</strong>
-      <ul>
-        <li>Predicts price from RAM, CPU, GPU, OS, brand & more</li>
-        <li>Trained ML model with feature engineering</li>
-        <li>Responsive futuristic UI with animated components</li>
-        <li>LKR currency output for local market relevance</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📱 More Coming Soon...</h3>
-      <p>
-        Currently working on exciting projects with Flutter and the MERN Stack.
-        Check back soon for mobile apps, full-stack web apps, and more AI/ML experiments!
-      </p>
-      <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
