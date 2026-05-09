@@ -66,7 +66,6 @@ open_to:    Collaborations · Open Source · Internships
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-FFCA28?style=for-the-badge&logo=supabase&logoColor=green"/>
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -85,10 +84,11 @@ open_to:    Collaborations · Open Source · Internships
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tharindudesh43&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharindudesh43&theme=tokyonight" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindudesh43&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindudesh43&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tharindudesh43&theme=tokyonight" alt="Top Languages by Repo"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharindudesh43&theme=tokyonight" alt="Top Languages by Commit"/>
 
 </div>
 
