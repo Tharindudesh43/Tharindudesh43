@@ -1,83 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tharindu%20Deshan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Undergraduate%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tharindu%20Deshan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer%20%C2%B7%20AI%20Enthusiast&descSize=18&descAlignY=60" width="100%" alt="Tharindu Deshan"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+Mobile+%26+Web+Apps+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+Flutter+%2B+MERN+Stack+%F0%9F%8C%B1;Always+coding%2C+always+learning+%E2%9A%A1)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00D2FF&center=true&vCenter=true&width=640&lines=Code.+Create.+Innovate.;Building+Flutter+%26+MERN+apps+%F0%9F%9A%80;Integrating+AI+into+real+products+%F0%9F%A4%96;BICT+(Hons)+%C2%B7+SEUSL+%F0%9F%8E%93" alt="Typing animation"/>
+</a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=tharindudesh43&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/tharindudesh43?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers"/>
-</p>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-tharindudeshan.tech-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tharindudeshan.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindudeshan)
+[![Medium](https://img.shields.io/badge/Medium-Read-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tharindudeshanhimahansa43)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/TharinduDesh43)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94710182874?text=Hello!%20I'm%20interested%20in%20your%20services.)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tharindudesh43&label=Profile+Views&color=2c5364&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Tharindudesh43?label=Followers&style=flat-square&color=2c5364)
+![Repos](https://img.shields.io/badge/Public%20Repos-30-2c5364?style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hi, I'm Tharindu
 
-```yaml
-name:       Tharindu Deshan
-location:   Sri Lanka 🇱🇰
-role:       Undergraduate Developer
-focus:      Mobile Apps · Web Development · AI/ML · DevOps
+I'm a **BICT (Hons) undergraduate at SEUSL** and a **freelance full stack & mobile developer** from Sri Lanka 🇱🇰. I build fast, user-friendly web and mobile apps, and I like adding AI where it genuinely makes a product better.
 
-currently_learning:
-  - Flutter & Dart (Cross-platform Mobile)
-  - MERN Stack (MongoDB, Express, React, Node.js)
-  - Machine Learning & AI Concepts
+| | |
+|---|---|
+| 🎓 **Studying** | BICT (Hons), South Eastern University of Sri Lanka |
+| 💼 **Working as** | Freelance Full Stack & Mobile Developer |
+| 🌱 **Currently learning** | Machine Learning, AI engineering, advanced Flutter patterns |
+| 🔧 **Also tinkering with** | IoT & Arduino, automation scripts |
+| 🤝 **Open to** | Internships · Freelance projects · Open-source collaboration |
+| 🟢 **Status** | **Available for work** |
 
-interests:
-  - Building intelligent web applications
-  - Cross-platform mobile development
-  - Automating things with code
-  - IoT with Arduino
+---
 
-open_to:    Collaborations · Open Source · Internships
-```
+## 🎯 What I Do
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📱 Mobile Apps
+Cross-platform apps with **Flutter & Dart**, backed by Firebase or REST APIs.
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Web Apps
+Full stack apps with the **MERN stack**, **Next.js**, and **TypeScript**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI Integration
+Practical ML and AI features using **Python**, **Flask**, and **scikit-learn**.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🖥️ Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+<div align="center">
 
-### 📚 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+**Languages**
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-4EA94B?style=for-the-badge&logo=supabase&logoColor=green"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,dart,java,php,c&perline=7" alt="Languages"/>
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-</p>
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,vue,tailwind,html,css&perline=7" alt="Frontend and Mobile"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,firebase,supabase&perline=7" alt="Backend and Databases"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,androidstudio,vscode,arduino,ai&perline=7" alt="Tools and Platforms"/>
+
+</div>
+
+<details>
+<summary><b>📚 Also working with</b></summary>
+<br/>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 [Marky: Attendance Mobile App](https://github.com/Tharindudesh43/Attendance-System-Mobile-App)
+Students mark attendance by **scanning QR codes**, review their history, and see **real-time analytics**. This is the mobile part of the Marky Attendance Management System.
+
+`Flutter` `Dart` `QR Scanning`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 [Hotel Booking App](https://github.com/Tharindudesh43/Hotel_Bokking_App)
+A mobile app for browsing and booking hotel stays, built with Flutter.
+
+`Flutter` `Dart`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [E-Commerce App](https://github.com/Tharindudesh43/E_Commerce-_App)
+A Flutter shopping app connected to a backend through **REST APIs**.
+
+`Flutter` `REST API`
+
+</td>
+<td width="50%" valign="top">
+
+### ✅ [ToDo Application](https://github.com/Tharindudesh43/ToDo_Application)
+A task manager that covers the core CRUD workflow.
+
+`PHP` `MySQL`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![See all repositories](https://img.shields.io/badge/See%20all%20repositories-%E2%86%92-2c5364?style=for-the-badge&logo=github)](https://github.com/Tharindudesh43?tab=repositories)
+[![More on my portfolio](https://img.shields.io/badge/More%20on%20my%20portfolio-%E2%86%92-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tharindudeshan.tech/projects)
+
+</div>
 
 ---
 
@@ -85,41 +153,46 @@ open_to:    Collaborations · Open Source · Internships
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharindudesh43&theme=tokyonight" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharindudesh43&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tharindudesh43&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharindudesh43&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tharindudesh43&theme=tokyonight" alt="Top Languages by Repo"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharindudesh43&theme=tokyonight" alt="Top Languages by Commit"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharindudesh43&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharindudesh43&theme=tokyonight" alt="Profile Details"/>
+
+</div>
+
+<details>
+<summary><b>📈 Contribution activity graph</b></summary>
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharindudesh43&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+</details>
+
+---
+
+## 🤝 Let's Work Together
+
+I'm open to **freelance projects, internships, and collaborations**. If you have an idea for a mobile app, a web platform, or an AI-powered feature, reach out.
+
+<div align="center">
+
+| 🌐 Portfolio | 💬 WhatsApp | 💼 LinkedIn | ✍️ Blog |
+|:---:|:---:|:---:|:---:|
+| [tharindudeshan.tech](https://tharindudeshan.tech) | [Chat now](https://wa.me/94710182874?text=Hello!%20I'm%20interested%20in%20your%20services.) | [Connect](https://www.linkedin.com/in/tharindudeshan) | [Medium](https://medium.com/@tharindudeshanhimahansa43) |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 
-[![Tharindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tharindudesh43&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<i>"The best way to predict the future is to build it."</i>
 
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharindudeshan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharindudesh43)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-*"The best way to predict the future is to build it."*
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt=""/>
 
 </div>
