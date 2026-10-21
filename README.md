@@ -99,56 +99,6 @@ Practical ML and AI features using **Python**, **Flask**, and **scikit-learn**.
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📋 [Marky: Attendance Mobile App](https://github.com/Tharindudesh43/Attendance-System-Mobile-App)
-Students mark attendance by **scanning QR codes**, review their history, and see **real-time analytics**. This is the mobile part of the Marky Attendance Management System.
-
-`Flutter` `Dart` `QR Scanning`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏨 [Hotel Booking App](https://github.com/Tharindudesh43/Hotel_Bokking_App)
-A mobile app for browsing and booking hotel stays, built with Flutter.
-
-`Flutter` `Dart`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [E-Commerce App](https://github.com/Tharindudesh43/E_Commerce-_App)
-A Flutter shopping app connected to a backend through **REST APIs**.
-
-`Flutter` `REST API`
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ [ToDo Application](https://github.com/Tharindudesh43/ToDo_Application)
-A task manager that covers the core CRUD workflow.
-
-`PHP` `MySQL`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![See all repositories](https://img.shields.io/badge/See%20all%20repositories-%E2%86%92-2c5364?style=for-the-badge&logo=github)](https://github.com/Tharindudesh43?tab=repositories)
-[![More on my portfolio](https://img.shields.io/badge/More%20on%20my%20portfolio-%E2%86%92-00D2FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tharindudeshan.tech/projects)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
