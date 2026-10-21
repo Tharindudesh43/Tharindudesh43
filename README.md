@@ -111,17 +111,6 @@ Practical ML and AI features using **Python**, **Flask**, and **scikit-learn**.
 
 </div>
 
-<details>
-<summary><b>📈 Contribution activity graph</b></summary>
-<br/>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tharindudesh43&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-</details>
 
 ---
 
