@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tharindu%20Deshan&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20Mobile%20Developer%20%C2%B7%20AI%20Enthusiast&descSize=18&descAlignY=60" width="100%" alt="Tharindu Deshan"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharindu%20Deshan&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20%7C%20Mobile%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Tharindu Deshan"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=00D2FF&center=true&vCenter=true&width=640&lines=Code.+Create.+Innovate.;Building+Flutter+%26+MERN+apps+%F0%9F%9A%80;Integrating+AI+into+real+products+%F0%9F%A4%96;BICT+(Hons)+%C2%B7+SEUSL+%F0%9F%8E%93" alt="Typing animation"/>
@@ -24,7 +24,7 @@
 
 ## 👋 Hi, I'm Tharindu
 
-I'm a **BICT (Hons) undergraduate at SEUSL** and a **freelance full stack & mobile developer** from Sri Lanka 🇱🇰. I build fast, user-friendly web and mobile apps, and I like adding AI where it genuinely makes a product better.
+I'm a **BICT (Hons) undergraduate at SEUSL** and a **freelance full stack & mobile developer** from Sri Lanka. I build fast, user-friendly web and mobile apps, and I like adding AI where it genuinely makes a product better.
 
 | | |
 |---|---|
@@ -143,6 +143,6 @@ I'm open to **freelance projects, internships, and collaborations**. If you have
 
 <i>"The best way to predict the future is to build it."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
 
 </div>
